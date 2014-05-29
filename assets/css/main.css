@@ -1,0 +1,41 @@
+h1 {
+  font-weight: 100;
+  text-transform: uppercase;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  letter-spacing: 2px;
+}
+
+h3 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  right: 15px;
+  margin: 0;
+  padding: 15px;
+  background-color: rgba(0,0,0,0.75);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+h3 a, h3 a:hover {
+  color: #FFF;
+}
+p {
+  font-family: 'Raleway', sans-serif;
+}
+.col-sm-4 p {
+  position: absolute;
+  bottom: 0;
+  font-family: 'Raleway', sans-serif;
+  background-color: #333;
+  color: #FFF;
+  padding:8px 15px;
+  margin-right: 15px;
+  margin-bottom: 0;
+}
+
+.col-sm-4 {
+  margin-bottom: 2em;
+}
